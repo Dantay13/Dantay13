@@ -1,16 +1,24 @@
-### Hi there 👋
+![My Great Header](pagebanner.png)
 
-<!--
-**Dantay13/Dantay13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.linkedin.com/in/dannertaylor/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-48.png"></a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://visitor-badge.glitch.me/badge?page_id=dantay13.dantay13" width="110px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Competencies
+
+- Growth Minset
+    - I am good at adapting to any situation I encounter myself in.
+    - I am a very curious person.
+    - I am ambitious.
+    - I take initiative in my work.
+
+- Business Acumen
+    - I am good at understanding a company's mission and vision statement.
+    - Finding ways to wor fulfilling a company's objectives.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantay13&langs_count=10&layout=compact&theme=radical)](https://github.com/dantay13/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantay13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
